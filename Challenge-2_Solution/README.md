@@ -1,0 +1,1 @@
+Created a python script that will query the metadata of an instance using the url http://169.254.169.254/latest/ within AWS and provide a json formatted output. 
