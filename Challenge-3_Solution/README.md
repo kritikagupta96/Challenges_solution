@@ -1,6 +1,6 @@
 Created a python script where object (in dict format) and key are taken as user input.
 
-Examples:
+Examples are as follows:
 1. object = {"a":{"b":{"c":"d"}}} 
    key= a/b/c 
    value = d 
